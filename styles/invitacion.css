@@ -91,7 +91,7 @@ html {
 section {
     color: snow;
     position: absolute;
-    top: 40px;
+    top: 65px;
     animation: appear 2s 2.75s forwards;
     opacity: 0;
     scale: 0;
